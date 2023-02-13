@@ -1,0 +1,26 @@
+body{
+    background-color:rgba(0, 30, 82, 30);
+    text-align: center;
+    margin-top: 50px;
+   color: white;
+   cursor: pointer;
+   font-size: 50px;
+  
+}
+.getId, #btn{
+    cursor: pointer;
+    font-size: 25px;
+    
+}
+#btn:hover{
+    background-color: rosybrown;
+    font-size: 25px;
+    border-radius: 25px;
+}
+p{
+    color: violet;
+  
+}
+p:hover{
+    color: teal;
+}
